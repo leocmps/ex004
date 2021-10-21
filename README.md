@@ -1,2 +1,3 @@
 # ex004
-Desenvolver um formulário de cadastro de usuários e cursos. (Utilizando mockApi)
+Formulário desenvolvido com template pronto ([Codepen](https://codepen.io/khadkamhn/pen/ZGvPLo)).
+Api criada pelo ([mockAPI](https://mockapi.io/))
